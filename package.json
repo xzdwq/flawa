@@ -1,0 +1,16 @@
+{
+  "name": "flawa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "artnet": "^1.4.0",
+    "dmxnet": "^0.9.0"
+  }
+}
